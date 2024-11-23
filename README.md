@@ -1,6 +1,6 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_FINANCE_DATA
 
-Project: Capstone project - Financial Analysis Dashboard with Power BI
+Capstone Project - Financial Analysis Dashboard with Power BI
 
 Completed this project as part of a Power BI course.
 
